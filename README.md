@@ -15,3 +15,8 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.4558&rep=rep1&type=p
 ### robotic code
 humanoid robot with Q-learning: https://github.com/normandipalo/intelligent-control-techniques-for-robots 
 
+### Spider gait animation
+https://www.youtube.com/watch?v=k1in7evdAO8
+
+### Dog gait animation 
+https://vimeo.com/215637283
