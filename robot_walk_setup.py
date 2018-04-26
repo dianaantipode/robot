@@ -13,7 +13,7 @@ def get_episode_Walk(policy):
     rewards = []
     state_count = 0 
     
-    while state_count <=10:
+    while state_count <=8:
         action = np.random.binomial(0,2)
         if action == 0: 
             next_state = state
@@ -29,4 +29,6 @@ def get_episode_Walk(policy):
         state = next_state
         state_count += 1
     
+    rewards = radar()
     
+    return states, actions, rewards
